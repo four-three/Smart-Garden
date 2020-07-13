@@ -10,4 +10,5 @@ I used the libaries for the individuel sensors.
 Connect to your Raspberry Pi via SSH.
 Check that all the sensors are correctly connected to the Pi (Diagram above).
 Navigate to your folder.
-Run 'sudo python3 Sensors.py'
+Run 
+`sudo python3 Sensors.py`
