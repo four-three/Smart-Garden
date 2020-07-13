@@ -2,6 +2,14 @@
 
 is a python script for Raspberry Pi, that collects and saves data from sensors and saves them in a json file for further usage.
 
+## Hardware
+
+The script only works for this specific setup.
+
+- light: 
+- temperature and air humidity: DHT_22
+- ground/earth humidity:
+
 ## Installation
 
 - You need to have python3 installed.
