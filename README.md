@@ -6,7 +6,7 @@ is a python script for Raspberry Pi, that collects and saves data from sensors a
 
 The script only works for this specific setup.
 
-- light: 
+- light:                        BH1750
 - temperature and air humidity: DHT_22
 - ground/earth humidity:
 
